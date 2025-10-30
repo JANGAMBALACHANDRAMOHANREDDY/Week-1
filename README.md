@@ -1,3 +1,4 @@
+Problem statement:
 With the rapid growth of the electric vehicle (EV) industry, analyzing and forecasting car performance, specifications, and market trends has become crucial for manufacturers, analysts, and consumers. However, raw datasets like cars_data_RAW.csv often contain inconsistent, unstructured, or incomplete information, making it difficult to extract insights or predict future patterns effectively.
 🧠 Week-1: Chatbot Creation & EV Vehicle Data Analysis
 📋 Project Overview
